@@ -1,3 +1,4 @@
+TASK 1 : 
 # Unemployment Analysis with Python: Impact of Covid-19 on India
 
 This project analyses monthly unemployment data for Indian states from May 2019 to June 2020 using Python. It studies how the Covid-19 lockdown affected unemployment, compares states and urban and rural areas, looks for seasonal patterns, and gives policy insights based on the findings.
@@ -13,3 +14,5 @@ This project analyses monthly unemployment data for Indian states from May 2019 
 7. Compared urban and rural unemployment.
 8. Analysed monthly averages to look for seasonal trends.
 9. Wrote the conclusion with findings, policy implications and limitations.
+
+TASK 2:
